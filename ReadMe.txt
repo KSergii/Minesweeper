@@ -125,7 +125,10 @@ Set/unset mines marks or claim a cell as free: > 5 6 free
 9|...X.....|
 -|---------|
 You stepped on a mine and failed!
+
+///////////////////////////////////////////////////////
 Example 2: the user wins by marking all mines correctly
+///////////////////////////////////////////////////////
 
 How many mines do you want on the field? > 8
 
@@ -310,7 +313,10 @@ Set/unset mines marks or claim a cell as free: > 9 1 mine
 9|..1//////|
 -|---------|
 Congratulations! You found all the mines!
+
+///////////////////////////////////////////////////
 Example 3: the user wins by exploring all safe cells
+///////////////////////////////////////////////////
 
 How many mines do you want on the field? > 5
 
